@@ -1,8 +1,8 @@
 # Configuring
 You just need to place the bot_token in config.json file.
 
-#Commands
-##Basics
+# Commands
+## Basics
 There are 3 available commands that this bot can understand:
 ```
 !points [add/remove] <User/UserList> <points>
@@ -10,7 +10,7 @@ There are 3 available commands that this bot can understand:
 !reset
 ```
 
-##Example:
+## Example:
 The following command will add 90 points for every gived users, you must separate them using comma.
 The points will be gived just if the user is admin or has "Manager" role, otherwise, an approval will be needed using :thumbsup:  reaction.
 ```
